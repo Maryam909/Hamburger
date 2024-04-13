@@ -4,9 +4,12 @@
     font-family: 'Poppins', sans-serif;
 }
 .main_box {
-    background: url(photo.jpg);
+    background: url(photo.png);
     width: 100%;
     background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
     height: 100vh;
 }
 .btn_one i{
